@@ -19,4 +19,4 @@ The deseasonalization of the resulting time series was performed using the inclu
 # How to cite
 
 
-[1] Kevin Daley, Kevin Slote, Rayan Succar, Roni Barak Ventura, Maurizio Porfiri, and igor Belykh.  "The Twitter effect: How anti-regulation organizations drive firearm acquisitions in the United States."  Manuscript submitted; 2023. DOI: 10.5281/zenodo.10631566
+[1] Kevin Daley, Kevin Slote, Rayan Succar, Roni Barak Ventura, Maurizio Porfiri, and Igor Belykh.  "The Twitter effect: How anti-regulation organizations drive firearm acquisitions in the United States."  Manuscript submitted; 2023. 
